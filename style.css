@@ -6,6 +6,13 @@ body{
 header{
     margin-top: 25px;
 }
+.bimg{
+    height: 100vh;
+  width: 100%;
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-position: center;
+}
 .nav_left{
     display: inline;
     margin-left: 30px;
