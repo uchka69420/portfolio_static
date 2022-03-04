@@ -9,6 +9,7 @@
     width: 100%;
     background-image: url(background.jpg);
     background-size: cover;
+    background-color: black;
     background-position: center;
 }
 nav{
