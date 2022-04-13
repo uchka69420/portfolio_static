@@ -1,0 +1,26 @@
+body{
+margin: 0;
+padding: 0;
+box-sizing: border-box;	
+overflow-x: hidden;
+font-family: 'Lato', sans-serif;
+}
+
+.heading{
+position: absolute;
+top: 40%;
+width: 100%;
+max-width: 100%;
+}
+
+.heading h1{
+font-size: 60px;
+font-weight: 300;
+color: white;
+font-family: 'Montserrat', sans-serif;
+}
+
+.heading h5{
+font-size: 20px;
+color: white;
+}
